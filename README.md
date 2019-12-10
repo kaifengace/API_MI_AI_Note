@@ -4,7 +4,7 @@
 |  Title   |   Content  |
 | --- | --- |
 | Target release    |  2019/11   |
-|  Epic   |  毕业   |
+|  Epic   |  票据识别app   |
 |  Document status   |  进行中   |
 |  Document owner   |  胡凯锋  |
 |  Designer   |  胡凯锋   |
