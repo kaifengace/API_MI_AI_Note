@@ -190,10 +190,10 @@
 #### :fire: 2）原型文档交互展示
 - 最小可行性产品的交互界面可以交互的文档，
 
-##### :fire: [Axure原型文档交互展示](http://hukaif.gitee.io/api_final)
+##### :fire: [Axure原型文档交互展示](http://hukaif.gitee.io/api_ml_ai_note)
 
 
-##### :fire: [Axure原型下载地址](https://gitee.com/hukaif/API_final)
+##### :fire: [Axure原型下载地址](https://gitee.com/hukaif/API_ML_AI_Note)
 ![产品交互及设计低保真原型](https://gitee.com/hukaif/API_final/raw/master/%E7%A4%BA%E4%BE%8B.PNG)
 # 口头操作说明
 - 已在课堂完成此部分
