@@ -197,8 +197,9 @@
 
 ##### :fire: [Axure原型下载地址](https://gitee.com/hukaif/API_ML_AI_Note)
 ![产品交互及设计低保真原型](https://gitee.com/hukaif/API_final/raw/master/%E7%A4%BA%E4%BE%8B.PNG)
+
 # 口头操作说明
-- 已在课堂完成此部分
+[400 秒版本 Pecha Kucha 20x20 版本](https://github.com/kaifengace/API_MI_AI_Note/tree/master/final/presentation) (录屏需要右键另存为进行下载)<br>
 
 # :star: API 产品使用关键AI或机器学习之API的输出入展示
 
