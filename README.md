@@ -166,9 +166,11 @@
 
 ### :sparkles: （二）信息设计
 1）产品框架图
+
 ![框架图](https://github.com/kaifengace/Note_recognition/raw/master/%E7%A5%A8%E6%8D%AE%E8%AF%86%E5%88%AB%E6%9E%B6%E6%9E%84%E5%9B%BE.PNG)
 
 2）产品流程图
+
 ![流程图](https://github.com/kaifengace/Note_recognition/raw/master/%E7%A5%A8%E6%8D%AE%E8%AF%86%E5%88%AB%E6%B5%81%E7%A8%8B%E5%9B%BE.PNG)
 
 #### 【ps:如若出现图片无法显示问题，请点击**Axure原型文档交互展示**查看，里面有包括产品流程图，架构图及原型，麻烦您了，谢谢】
@@ -207,10 +209,13 @@
 **概要：核心功能票据识别的代码展示——文字识别+图像识别**
 
 ##### 1）百度文字识别
+
 - [混贴票据识别](https://ai.baidu.com/tech/ocr/mixed_receipt)
+
 ![代码](https://github.com/kaifengace/API_MI_AI_Note/raw/master/final/1.PNG)
 
 - [通用票据识别](https://ai.baidu.com/tech/ocr_receipts/receipt)
+
 ![代码](https://github.com/kaifengace/API_MI_AI_Note/raw/master/final/2.PNG)
 ![代码](https://github.com/kaifengace/API_MI_AI_Note/raw/master/final/2%E3%80%821.PNG)
 
@@ -218,6 +223,7 @@
 
 ##### 2）百度图像识别
 - [品牌logo识别](https://ai.baidu.com/tech/imagerecognition/logo)
+
 ![代码](https://github.com/kaifengace/API_MI_AI_Note/raw/master/final/3.PNG)
 
 
