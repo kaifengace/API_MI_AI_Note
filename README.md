@@ -208,12 +208,19 @@
 
 ##### 1）百度文字识别
 - [混贴票据识别](https://ai.baidu.com/tech/ocr/mixed_receipt)
+![代码](https://github.com/kaifengace/API_MI_AI_Note/raw/master/final/1.PNG)
+
 - [通用票据识别](https://ai.baidu.com/tech/ocr_receipts/receipt)
+![代码](https://github.com/kaifengace/API_MI_AI_Note/raw/master/final/2.PNG)
+![代码](https://github.com/kaifengace/API_MI_AI_Note/raw/master/final/2%E3%80%821.PNG)
+
 - [行程单识别](https://ai.baidu.com/tech/ocr_receipts/air_ticket)
 
 ##### 2）百度图像识别
 - [品牌logo识别](https://ai.baidu.com/tech/imagerecognition/logo)
----
+![代码](https://github.com/kaifengace/API_MI_AI_Note/raw/master/final/3.PNG)
+
+
 **输入：票据票面信息；输出：文字**
 
 **输入：图片；输出：文字**
