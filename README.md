@@ -214,7 +214,7 @@
 ![代码](https://github.com/kaifengace/API_MI_AI_Note/raw/master/final/2.PNG)
 ![代码](https://github.com/kaifengace/API_MI_AI_Note/raw/master/final/2%E3%80%821.PNG)
 
-- [行程单识别](https://ai.baidu.com/tech/ocr_receipts/air_ticket)
+- [行程单识别](https://github.com/kaifengace/API_MI_AI_Note/raw/master/final/3.PNG)
 
 ##### 2）百度图像识别
 - [品牌logo识别](https://ai.baidu.com/tech/imagerecognition/logo)
